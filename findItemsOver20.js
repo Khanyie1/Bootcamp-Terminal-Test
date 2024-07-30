@@ -7,7 +7,7 @@ export default function findItemsOver20(item){
             Array.push(item[i]);
         }
     }
-    console.log("Hard Coded Threshold: 20")
-    console.log(Array);
+    // console.log("Hard Coded Threshold: 20")
+    // console.log(Array);
     return Array;
 }

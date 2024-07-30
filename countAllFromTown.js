@@ -9,7 +9,7 @@ export default function countAllFromTown(regNo, forTown) {
             CarRegNoCount++;
         }
     }
-    console.log(forTown);
-  	console.log(CarRegNoCount);
+    // console.log(forTown);
+  	// console.log(CarRegNoCount);
     return CarRegNoCount;
 }

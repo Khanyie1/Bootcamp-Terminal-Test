@@ -17,7 +17,7 @@ function mostProfitableDepartment(param) {
             mostProfitableDept = department;
         }
     }
-	console.log(mostProfitableDept);
+	// console.log(mostProfitableDept);
     return mostProfitableDept;
 }
 
@@ -43,7 +43,7 @@ function mostProfitableDay(profitableDay) {
             mostProfitableDay = day;
         }
     }
-  	console.log(mostProfitableDay);
+  	// console.log(mostProfitableDay);
     return mostProfitableDay;
 }
 

@@ -8,7 +8,7 @@ export default function findItemsOver(itemsProd, threshold){
               ArrayProd.push(itemsProd[i]);
           }
       }
-      console.log(ArrayProd);
-      console.log(threshold);
+    //   console.log(ArrayProd);
+    //   console.log(threshold);
       return ArrayProd;
   }

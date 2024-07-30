@@ -13,7 +13,7 @@ export default function countAllPaarl(regCarNo)
         	CountList++;
       }
     }
-    console.log(carRegNo);
-  	console.log(CountList);
+    // console.log(carRegNo);
+  	// console.log(CountList);
   	return CountList;
 }
